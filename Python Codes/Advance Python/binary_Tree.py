@@ -1,3 +1,4 @@
+#Class to make Binary Trees
 class TreeNode():
     #Constructor function
     def __init__(self, key):
